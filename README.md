@@ -1,3 +1,3 @@
 # DLAI-MultimodalDixitBot
 
-- work in progress -
+work in progress
